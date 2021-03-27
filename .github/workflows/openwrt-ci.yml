@@ -5,7 +5,8 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
-name: OpenWrt-CI
+name: OpenWrt-K2P
+
 on:
   schedule:
     - cron: 0 20 * * *
